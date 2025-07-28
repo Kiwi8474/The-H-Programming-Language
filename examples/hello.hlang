@@ -1,0 +1,9 @@
+#!/path/to/the/interpreter/script/h
+create name as "Alice" ~ A string variable
+bless "Hello, " ~ Prints 'Hello, ' to the output without a newline
+bless &{name} sl ~ Prints the value of 'name' to the output with a newline
+create num1 as 10
+create num2 as 5
+calc num1 + num2 to result ~ Adds two numbers and saves the result to the given variable. If the variable doesn't exist, then it creates a new one
+bless "The result is: " ~ Prints without a newline
+bless &{result} sl ~ Prints the result with a newline
