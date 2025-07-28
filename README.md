@@ -1,10 +1,10 @@
 # The H Programming Language
 
-!(https://placehold.co/150x150/ADD8E6/000000?text=H)
+![The H Programming Language Logo](https://placehold.co/150x150/ADD8E6/000000?text=H)
 
-A simple, interpted programming language, developed in Python.
+A simple, interpreted programming language, developed in Python.
 
-## About the H Programming Language
+## About The H Programming Language
 
 The H Programming Language (short: H) is a minimalist yet powerful programming language designed for clarity and ease of use. It's ideal for scripting and learning the fundamentals of programming languages.
 
@@ -14,7 +14,7 @@ The H Programming Language (short: H) is a minimalist yet powerful programming l
 * **Variables:** Create and manage variables of various types (strings, numbers, booleans).
 * **Output:** Print text and variable values to the console.
 * **Calculations:** Perform mathematical operations and store results in variables.
-* **Variable Management:** Delete variables, that you don't need anymore.
+* **Variable Management:** Delete no longer needed variables.
 * **Comments:** Supports both full-line and inline comments with the tilde `~` symbol.
 * **Newlines:** Control newlines in output with `sl`.
 * **Version Query:** Display the interpreter version using `--version`.
@@ -92,7 +92,7 @@ I am continuously working on expanding The H Programming Language. Planned featu
 
 ## Contributing
 
-Contributions are welcome! If you have ideas or suggestions for improvements, feel free to open an issu or create a pull request.
+Contributions are welcome! If you have ideas or suggestions for improvements, feel free to open an issue or create a pull request.
 
 ## License
 
